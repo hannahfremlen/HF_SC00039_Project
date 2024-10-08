@@ -7,6 +7,7 @@ This is a script to calculate the secondary structure of a protein in solution. 
 
 ## Arguments
   -h      Prints help message.
+  
   -i1     File with the chemical shifts from NMR assignment in csv format.
   -i2     File with the chemical shifts from the POTENCI algortihm in csv format.
   -out    Name of the csv output file.
