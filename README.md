@@ -5,6 +5,8 @@ This is a script to calculate the secondary structure of a protein in solution. 
 
   The packages needed are csv, argparse, pandas, numpy and matplotlib.pyplot
 
+  The input files should be in the same folder as the script.
+
 ## Arguments
 -h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prints help message.
 
